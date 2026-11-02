@@ -1,3 +1,5 @@
+import os
+
 """Ausleihlogik einer kleinen Bibliothek."""
 
 from dataclasses import dataclass
